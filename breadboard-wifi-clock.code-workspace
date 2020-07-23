@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "wemos-d1-mini\\4-digit-display-test"
+		},
+		{
+			"path": "wemos-d1-mini\\breadboard-wemos-clock"
+		},
+		{
+			"name": "ntp-client-test",
+			"path": "wemos-d1-mini\\ntp-client-test"
+		},
+		{
+			"name": "ntp-clock",
+			"path": "wemos-d1-mini\\ntp-clock"
+		},
+		{
+			"name": "hours-minutes-display-test",
+			"path": "wemos-d1-mini\\hours-minutes-display-test"
+		},
+		{
+			"name": "pseudo-wait",
+			"path": "wemos-d1-mini\\pseudo-wait"
+		},
+		{
+			"name": "ntp-clock-2",
+			"path": "wemos-d1-mini\\ntp-clock-2"
+		},
+		{
+			"name": "NtpClientLib_H-test",
+			"path": "wemos-d1-mini\\NtpClientLib_H-test"
+		}
+	],
+	"settings": {}
+}
